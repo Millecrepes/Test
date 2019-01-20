@@ -1,6 +1,6 @@
 list1 = [1, 2, 3],[11, 22, 33]
 list2 = [4, 5]
-for (a, b) in zip(list1, list2):   #list1,list2を同時にループ
+for (a, b) in zip(list1, list2):
     print(a,b)
 
 
